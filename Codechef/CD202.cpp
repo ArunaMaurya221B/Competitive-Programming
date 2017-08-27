@@ -14,7 +14,7 @@
                 cout<<s[i];
                 i=i+3;
                 }
-                else
+               else
                 {
                     cout<<s[i];
                     i=i+1;
