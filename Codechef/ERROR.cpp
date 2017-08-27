@@ -16,7 +16,7 @@
             if((pos1!=-1)||(pos2!=-1))
             cout<<"Good"<<endl;
             else
-            cout<<"Bad"<<endl;
+           cout<<"Bad"<<endl;
         }
     } 
 
