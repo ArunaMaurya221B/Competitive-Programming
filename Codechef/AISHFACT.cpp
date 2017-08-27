@@ -23,7 +23,7 @@
                     sum++;
                 }
             }
-            cout<<sum<<" "<<no<<endl;
+           cout<<sum<<" "<<no<<endl;
         }
     } 
 
