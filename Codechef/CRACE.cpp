@@ -31,6 +31,6 @@
             if(c%2==0)
             cout<<"JACK"<<endl;
             else
-            cout<<"JENNY"<<endl;
+           cout<<"JENNY"<<endl;
         }
     } 
