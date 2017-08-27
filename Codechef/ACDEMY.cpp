@@ -6,6 +6,7 @@
         cin>>t;
         while(t--)
         {
+            
             int a=0,i=0,c=0,max=0;
             cin>>a;
             int ar[a];
