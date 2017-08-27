@@ -22,5 +22,5 @@
         pt=upper_bound(v.begin(),v.end(),y);
         cout<<(pt-v.begin())-(it-v.begin())<<endl;
         //cout<<<<endl;
-        }
+       }
         }  
