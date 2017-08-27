@@ -29,7 +29,7 @@
                     continue;
                 }
             }
-            cout<<c<<endl;
+           cout<<c<<endl;
         }
     }
                      
