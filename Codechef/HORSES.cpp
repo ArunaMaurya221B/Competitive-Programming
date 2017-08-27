@@ -22,7 +22,7 @@
                 diff.push_back(abs(v[i]-v[i+1]));
             sort(diff.begin(),diff.end());
             it=diff.begin();
-            cout<<*it<<endl;
+           cout<<*it<<endl;
         }
     }
      
