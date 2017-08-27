@@ -12,6 +12,6 @@
     	    cin>>a>>b;
     	    cout<<(abs(a-b))<<endl;
     	}
-    	return 0;
+    return 0;
     }
      
