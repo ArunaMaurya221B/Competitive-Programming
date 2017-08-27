@@ -26,6 +26,6 @@
             if(a>2)
             cout<<max+2<<endl;
             else
-            cout<<a<<endl;
+           cout<<a<<endl;
         }
     } 
