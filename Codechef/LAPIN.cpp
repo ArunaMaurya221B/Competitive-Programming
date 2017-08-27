@@ -23,7 +23,7 @@
             if(s1==s2)
             cout<<"YES"<<endl;
             else
-            cout<<"NO"<<endl;
+           cout<<"NO"<<endl;
         }
     }
              
