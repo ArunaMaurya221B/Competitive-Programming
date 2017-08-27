@@ -17,7 +17,7 @@
     	        continue;
     	        else
     	        cout<<s[i];
-    	    }
+    	   }
     	    cout<<endl;
     	}
     	return 0;
