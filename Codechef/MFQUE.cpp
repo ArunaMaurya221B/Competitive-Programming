@@ -28,5 +28,5 @@
         cout<<sol<<endl;
       
     }
-    } 
+   } 
 
