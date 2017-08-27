@@ -40,7 +40,7 @@
         reverse(sv.begin(),sv.end());
         for(int i=0;i<l;i++)
         cout<<sv[i].second<<endl;
-         for(int i=0;i<k;i++)
+        for(int i=0;i<k;i++)
         cout<<nv[i].second<<endl;
     }
      
