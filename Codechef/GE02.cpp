@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-string s,s1;
+ string s,s1;
 cin>>s;
 s1=s;
 reverse(s.begin(),s.end());
