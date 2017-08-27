@@ -32,7 +32,7 @@
              j++;
             else {i++; j++; count++;}
     }
-            cout<<count<<endl;
+           cout<<count<<endl;
         }
     }
             
