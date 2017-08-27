@@ -30,7 +30,7 @@
                     }
                 }
             }
-            cout <<c<<endl;
+           cout <<c<<endl;
         }
     } 
 
