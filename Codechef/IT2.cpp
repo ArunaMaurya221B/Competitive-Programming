@@ -41,7 +41,7 @@
                 break;
             }
         }
-        if(flag==-1)
+       if(flag==-1)
         cout<<"NO"<<endl;
         else
         cout<<"YES"<<endl;
