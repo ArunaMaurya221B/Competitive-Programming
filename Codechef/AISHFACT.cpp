@@ -15,7 +15,7 @@
             {
                 if(s[i]=='d')
                 no--;
-                else
+               else
                 no++;
                 if(no<0)
                 {
