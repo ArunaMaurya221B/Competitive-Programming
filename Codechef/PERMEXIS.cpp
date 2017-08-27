@@ -25,7 +25,7 @@
             if(flag==1)
             cout<<"YES"<<endl;
             else
-            cout<<"NO"<<endl;
+           cout<<"NO"<<endl;
         }
     } 
 
