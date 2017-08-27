@@ -28,5 +28,5 @@
                 else
                 cout<<"No Treat"<<endl;
             }
-        }  
+       }  
 
