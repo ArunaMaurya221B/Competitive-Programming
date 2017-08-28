@@ -20,7 +20,7 @@
                 if(no<0)
                 {
                     no=0;
-                    sum++;
+                   sum++;
                 }
             }
             cout<<sum<<" "<<no<<endl;

@@ -15,7 +15,7 @@
             {
                 if(s[i]=='d')
                 no--;
-                else
+               else
                 no++;
                 if(no<0)
                 {
@@ -23,7 +23,7 @@
                     sum++;
                 }
             }
-            cout<<sum<<" "<<no<<endl;
+          cout<<sum<<" "<<no<<endl;
         }
     } 
 

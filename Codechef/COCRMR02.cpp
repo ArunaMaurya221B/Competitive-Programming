@@ -19,5 +19,5 @@
             cin>>i;
             cout<<ar[i]<<endl;
         }
-    } 
+   } 
 

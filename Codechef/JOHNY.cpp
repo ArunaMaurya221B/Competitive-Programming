@@ -22,7 +22,7 @@
                 if(ar[i]==temp)
                 cout<<i+1<<endl;
              }
-        }
+       }
     }
              
 

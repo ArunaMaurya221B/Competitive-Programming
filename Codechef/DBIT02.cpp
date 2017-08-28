@@ -18,6 +18,6 @@
             if(f==1)
             cout<<"0"<<endl;
             else
-            cout<<"1"<<endl;
+           cout<<"1"<<endl;
         } 
 

@@ -17,7 +17,7 @@
             if(s<l)
             cout<<"DEAD AND ROTTING"<<endl;
             else
-            cout<<"ALIVE AND KICKING"<<endl;
+           cout<<"ALIVE AND KICKING"<<endl;
         }
     } 
 

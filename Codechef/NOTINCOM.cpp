@@ -22,7 +22,7 @@ int main()
         a.insert(a2[i]);
         }
         int l=a.size();
-        cout<<b+c-l<<endl;
+       cout<<b+c-l<<endl;
         //int k=a+b-l;
         //cout<<k;
     }

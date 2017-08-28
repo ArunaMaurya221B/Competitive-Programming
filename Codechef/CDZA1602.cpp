@@ -21,7 +21,7 @@
             if(it!=v.end())
             cout<<"Yes"<<endl;
             else
-            cout<<"No"<<endl;
+           cout<<"No"<<endl;
         }
         
     } 
