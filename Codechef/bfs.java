@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.io.*;	
 public class bfs{
-	public int matrix[][] = new int[10][10];
+    public int matrix[][] = new int[10][10];
     public boolean visited[] = new boolean[10];
     public Tryqueue qq = new Tryqueue();
 	public bfs(int v){
